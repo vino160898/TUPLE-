@@ -1,0 +1,10 @@
+marks=(45,56,67,78,89)    
+print(type(marks))        -->tuple
+marks=45,56,67,78,89           
+print(type(marks))        -->tuple
+mark=(90)
+print(type(mark))         -->int
+mark=90,
+print(type(mark))         -->tuple
+mark=(90,)
+print(type(mark))         -->tuple
