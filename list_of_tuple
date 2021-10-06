@@ -1,0 +1,6 @@
+l=[(10,20,30),(40,50,60)]
+print(l)
+l1=[10,20,30]
+l2=["vino",10,"salem-45"]
+lt=list(zip(l1,l2))
+print(lt)
